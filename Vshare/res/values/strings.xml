@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vshare</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="forgot">FORGOT</string>
+    <string name="signup"><u>Sign up!</u></string>
+    <string name="sign_title">欢迎注册Vshare</string>
+
+</resources>
